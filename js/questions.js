@@ -31,7 +31,7 @@ let nextQuestion = choiceNumber => {
 }
 
 let showResultPage = () => {
-  location.href = '/result.html?mbti=' + mbti
+  location.href = '/results.html?mbti=' + mbti
 }
 
 
